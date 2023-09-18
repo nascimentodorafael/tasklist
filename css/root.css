@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-rendering: optimizeLegibility;
+}
+
+:root {
+    --primary-color-main: rgb(199, 187, 187);
+    --secondary-color-main: rgb(35, 34, 34);
+    --font-color: white;
+}
